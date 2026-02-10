@@ -27,5 +27,5 @@ Source:
 
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/tejaskhandekar3-hub/BlinkitProject/blob/main/BlinkitDashboard.png)
-Example: ![Dashboard Preview]((https://github.com/tejaskhandekar3-hub/BlinkitProject/blob/main/BlinkitDashboard.png))
+Show what the dashboard looks like. - ![Alt text](https://github.com/tejaskhandekar3-hub/MalariaDataAnalsisDashboard/blob/main/MalariaDashboard.png)
+Example: ![Dashboard Preview]((https://github.com/tejaskhandekar3-hub/MalariaDataAnalsisDashboard/blob/main/MalariaDashboard.png)))
